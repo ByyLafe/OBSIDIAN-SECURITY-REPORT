@@ -1,4 +1,4 @@
-Obsidian — Security Audit Report
+# Obsidian — Security Audit Report
 
 Black-box penetration testing and reverse engineering of the Obsidian binary a simulated nuclear power plant control system.
 

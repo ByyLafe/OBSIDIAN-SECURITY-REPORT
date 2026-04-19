@@ -46,3 +46,4 @@ Delete the var_38 variable and the call to strncpy containing the flag.
 Disable all "Sensitive Info" or "Debug" type displays in production versions.  
 
 Never store sensitive hard-coded data in functions; use environment variables or digital safes if the data is necessary for operation.  
+![alt text](<../Images/SENSITIVE DATA.png>)

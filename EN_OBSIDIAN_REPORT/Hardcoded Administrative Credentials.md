@@ -1,6 +1,6 @@
-Vulnerability #5: Hardcoded Administrative Credentials 
+# Vulnerability: Hardcoded Administrative Credentials 
 
-Flag: {Emergency protocols activated, you are now admin !} 
+## Flag: {Emergency protocols activated, you are now admin !} 
 
 Severity: Critical 
 
@@ -64,4 +64,5 @@ Hash(Password + Salt)
 
 The best in a real case would be to use an API that processes the password.  
 
-The client enters a password and the API decides whether or not the password is valid.  
+The client enters a password and the API decides whether or not the password is valid.
+  ![alt text](../Images/ADMIN123.png)

@@ -1,8 +1,6 @@
-Vulnerability #8: Integer Overflow / Underflow 
+# Vulnerability: Integer Overflow / Underflow 
 
- 
-
-Flag : {ERR0R TURB1NE CAN'T ST0P} 
+## Flag : {ERR0R TURB1NE CAN'T ST0P} 
 
 Severity: Critical  
 
@@ -54,3 +52,4 @@ Secured all possibilities by replacing the condition with if (rax_3 > = 1 && rax
 
 Use i < rax_3 instead of i!= rax_3 to avoid infinite loops in case of unexpected entry. 
 
+![alt text](<../Images/TURBINE CANT STOP.png>)

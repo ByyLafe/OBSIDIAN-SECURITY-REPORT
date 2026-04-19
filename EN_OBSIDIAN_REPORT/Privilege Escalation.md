@@ -48,6 +48,4 @@ Make sure that the elevation of privileges requires validation by an authority (
 
  
 
- 
-
- 
+![alt text](../Images/ADMIN4242.png)

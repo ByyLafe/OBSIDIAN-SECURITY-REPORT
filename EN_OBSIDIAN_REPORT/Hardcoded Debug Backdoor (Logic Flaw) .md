@@ -50,4 +50,4 @@ Removing dead code: Remove comparisons with arbitrary constants used for develop
 
 Input validation: Implement realistic temperature limits, e.g. -50 to +150 degrees, and reject any value outside these limits before proceeding further. 
 
- 
+ ![alt text](<../Images/TURBINE WILL EXPLODE.png>)

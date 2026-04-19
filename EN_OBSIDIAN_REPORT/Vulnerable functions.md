@@ -41,12 +41,4 @@ fget(buff, size_buff, 1);
 
  
 
- 
-
- 
-
- 
-
- 
-
- 
+![alt text](<../Images/The stone isn't in the pocket anymore.png>)

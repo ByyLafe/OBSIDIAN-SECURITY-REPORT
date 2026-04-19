@@ -69,19 +69,5 @@ instead of a single file.
 fprintf is also a bad idea, because this function stores in a file for long periods of time; the or a simple printf displays in the console without data persistence.  
 
  
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Vulnerabily 15 Hardcoded credentials. 
-
+![alt text](../Images/SECRET_LOG12PIERRE34.png)
  

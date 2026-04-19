@@ -1,4 +1,4 @@
-# Vulnerability #3: Privilege Escalation / Harcoded functions 
+# Vulnerability: Privilege Escalation / Harcoded functions 
 
 ## Flag : {SHUTDOWN} 
 
@@ -51,3 +51,5 @@ Patch:
 Physically delete functions and names of debug/emergency commands from production binaries.  
 
 All critical control commands must be documented and protected by authentication rather than mere concealment. 
+
+![alt text](../Images/SHUTDOWN.png)

@@ -1,10 +1,9 @@
-Vulnerability #12 : Insecure Randomness 
+# Vulnerability #12 : Insecure Randomness 
 
- 
+## Flag: {MELTDOWN1234} 
 
 Severity: High  
 
-Flag: {MELTDOWN1234} 
 
 Type: Insecure Randomness  
 
@@ -40,8 +39,4 @@ Replace probability logic with strict permission checking.
 
  
 
- 
-
- 
-
- 
+ ![alt text](../Images/MELTDOWN1234.png)
